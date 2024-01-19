@@ -1,4 +1,6 @@
 node_modules
 ./1_srp/node_modules
-./2_srp/node_modules
+./2_ocp/node_modules
+./3_isp/node_modules
+./4_dip/node_modules
 ./model/node_modules
